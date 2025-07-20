@@ -23,5 +23,6 @@ My credentials include a Medical Doctor degree from Maringa State University (UE
 
 ## Projects:
 
+* **Análise dos Dados do Airbnb - Londres** 
 * **Artificial Intelligence in Anterior Chamber Evaluation: A Systematic Review and Meta-analysis:** http://bit.ly/3Gx3icA 
   
