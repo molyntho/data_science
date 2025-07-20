@@ -17,7 +17,7 @@ My credentials include a Medical Doctor degree from Maringa State University (UE
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/molyntho)
-* [Medium] (https://medium.com/@molyntho)
+* [Medium](https://medium.com/@molyntho)
   
 
 
